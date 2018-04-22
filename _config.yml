@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+title: 초보개발자 호빵
+email: babo.hopangman@gmail.com
+description: 개발공부 블로그
+url: https://hopangman.github.io/ # the base hostname & protocol for your site
 
 
 #
@@ -33,22 +33,22 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: HOPANGMAN
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
-  disqus-shortname:
+  job: "Front-End Developer"
+  bio: "평범하지만 흔하지않은!"
+  email: babo.hopangman@gmail.com
+  disqus-shortname: developer-h
   twitter: #username
-  facebook: #username
+  facebook: L.jieum #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-115022339-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: hopangman #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
