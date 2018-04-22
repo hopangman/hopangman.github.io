@@ -1,0 +1,11 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Samjin Logistics
+  link: http://www.samjinlogistics.com/
+  date: April 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Front-ENd Internship
+
+- name: newworld Energy
+  link: http://www.newworld-energy.com/
+  date: November 2017 - Febuary 2018
+  job: Web Developer
