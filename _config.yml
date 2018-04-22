@@ -7,7 +7,7 @@ title: 꿈많은 초보개발자 호빵이
 email: babo.hopangman@gmail.com
 description: 개발공부로그
 url: https://hopangman.github.io/ # the base hostname & protocol for your site
-
+keywords: ["Programming", "Fornt-End", "JavaScript"]
 
 #
 ###################################
@@ -49,10 +49,8 @@ owner:
     ad-slot:
   bing-verify:
   github: hopangman #username
-  gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
-  skype: #username
   xing: #username
   instagram: #username
   lastfm: #username
@@ -65,6 +63,5 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
-  500px: #username
   codepen: #username
-  reddit: #username
+  telegram: #username
