@@ -2,7 +2,7 @@
 layout: post
 title: "한글 파일명 오류해결하기!"
 date:   2018-05-10 17:37:00
-categories: [Diary]
+categories: [Tip]
 comments: true
 ---
 Mac 터미널로 git에 push하려고 하는데 한글파일명이 /123/123/123/ 이런식의 숫자로 표시되는 경우 해결방법!  
